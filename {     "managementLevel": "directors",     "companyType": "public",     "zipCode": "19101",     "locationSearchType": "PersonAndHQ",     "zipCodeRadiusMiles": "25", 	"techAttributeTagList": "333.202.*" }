@@ -1,0 +1,8 @@
+{
+    "managementLevel": "directors",
+    "companyType": "public",
+    "zipCode": "19101",
+    "locationSearchType": "PersonAndHQ",
+    "zipCodeRadiusMiles": "25",
+	"techAttributeTagList": "333.202.*"
+}
